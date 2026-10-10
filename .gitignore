@@ -1,36 +1,3 @@
-# Environment variables
 .env
-.env.*
-
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-
-# Virtual environments
-venv/
 .venv/
-env/
-
-# IDE
-.vscode/
-.idea/
-
-# Streamlit
-.streamlit/secrets.toml
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Large/model files
-*.h5
-*.hdf5
-*.keras
-*.pt
-*.pth
-*.onnx
-*.joblib
-
-# Logs
-*.log
+__pycache__/
